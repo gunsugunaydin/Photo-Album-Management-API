@@ -44,7 +44,7 @@ Swagger UI Screenshot
   - **Album Management**: Access the `/api/v1/albums` endpoints for all album-related operations.
 
 
-## My Learning and Growth Journey
+## My Learning and Growth Journey<img src="https://gifdb.com/images/high/peach-workout-3ji7jev6r95djd66.gif" alt="Waving Hand" width="30" height="30">
 
 Throughout the development of this project, I’ve significantly improved my coding practices and expanded my knowledge in several areas:
 
@@ -56,7 +56,7 @@ Throughout the development of this project, I’ve significantly improved my cod
 
 ## Future Enhancements
 
-- **Cloud Storage Integration**: Moving forward, I aim to integrate cloud storage solutions like AWS S3 for managing photo storage.
+Moving forward, I aim to integrate cloud storage solutions like AWS S3 for managing photo storage.
 
 Feel free to explore the code and provide feedback. I’m always open to suggestions and collaboration!
 
