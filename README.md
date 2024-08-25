@@ -38,11 +38,20 @@ Explore the API documentation through Swagger at `http://localhost:8080/swagger-
 
 Swagger UI Screenshot
 
+
   This time, I'll keep it brief:
 
   - **Authentication & Account Management**: Use the `/api/v1/auth` endpoints.
-  - **Album Management**: Access the `/api/v1/albums` endpoints for all album-related operations.
-
+  - **Album Management**: Access the `/api/v1/albums` endpoints for all album-related operations:
+    
+    **Photo Management Screenshots:**
+    
+    - **Upload Photo:**
+      ![Ekran görüntüsü 2024-08-25 231542](https://github.com/user-attachments/assets/7dae8c7b-7d18-44ad-bb81-f3623b808232)
+    
+    
+    - **Download Photo:**
+      ![Ekran görüntüsü 2024-08-25 231716](https://github.com/user-attachments/assets/0a78f84c-c2ca-4f37-8ef9-30565c545276)
 
 ## My Learning and Growth Journey <img src="https://gifdb.com/images/high/peach-workout-3ji7jev6r95djd66.gif" alt="Waving Hand" width="40" height="40">
 
