@@ -48,8 +48,8 @@ Swagger UI Screenshot
     
     - **Upload Photo:**
       
-      ![Ekran görüntüsü 2024-08-25 231542](https://github.com/user-attachments/assets/7dae8c7b-7d18-44ad-bb81-f3623b808232)
-    
+      ![Ekran görüntüsü 2024-08-26 001520](https://github.com/user-attachments/assets/b75addca-e599-4bb3-b63a-9a6829654366)
+          
     
     - **Download Photo(Also Thumbnail 🙋🏼‍♀️):**
       
@@ -69,7 +69,7 @@ Throughout the development of this project, I’ve significantly improved my cod
 
 In the future, I intend to integrate cloud storage solutions, such as AWS S3, for managing photo storage more efficiently.
 
-Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration.
+<img src="https://media.tenor.com/beCXMoxigz4AAAAM/rosycheeks-mochi-peach.gif" alt="Waving Hand" width="40" height="40">Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration.
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
