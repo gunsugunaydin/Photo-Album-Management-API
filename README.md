@@ -71,6 +71,8 @@ In the future, I intend to integrate cloud storage solutions, such as AWS S3, fo
 
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration.
 
+<img src="https://media.tenor.com/beCXMoxigz4AAAAM/rosycheeks-mochi-peach.gif" alt="Waving Hand" width="40" height="40">
+
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
-- **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/) <img src="https://media.tenor.com/beCXMoxigz4AAAAM/rosycheeks-mochi-peach.gif" alt="Waving Hand" width="40" height="40">
+- **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
 
