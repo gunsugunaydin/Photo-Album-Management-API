@@ -51,7 +51,7 @@ Swagger UI Screenshot
       ![Ekran görüntüsü 2024-08-25 231542](https://github.com/user-attachments/assets/7dae8c7b-7d18-44ad-bb81-f3623b808232)
     
     
-    - **Download Photo:**
+    - **Download Photo(Also Thumbnail 🙋🏼‍♀️):**
       
       ![Ekran görüntüsü 2024-08-25 231716](https://github.com/user-attachments/assets/0a78f84c-c2ca-4f37-8ef9-30565c545276)
 
