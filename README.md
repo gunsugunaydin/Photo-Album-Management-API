@@ -33,7 +33,7 @@ To get started with the project, clone the repository and build it using Maven. 
 ## Usage and API Documentation
 
 - Explore the API documentation through Swagger at `http://localhost:8080/swagger-ui/index.html`.
-- 
+  
 ![Ekran görüntüsü 2024-08-25 221810](https://github.com/user-attachments/assets/ee10a56e-e4be-4883-a9fc-001b1e4071fd)
 
 Swagger UI Screenshot
