@@ -30,6 +30,10 @@ This project is a Photo Album Management API developed using Spring Boot. The AP
 
 To get started with the project, clone the repository and build it using Maven. The API is ready to run with a simple `mvn spring-boot:run`.
 
+Alternatively, you can open the repository directly in VS Code using the following trick: simply prepend `https://vscode.dev/` to the repository URL. For example:
+ <img src="![pngwing com](https://github.com/user-attachments/assets/5c1b49ad-ea70-48dc-8f5b-87ea4cf976c0)
+" alt="Waving Hand" width="40" height="40"> https://vscode.dev/github.com/gunsugunaydin/Photo-Album-Management-API
+
 ## Usage and API Documentation
 
 Explore the API documentation through Swagger at `http://localhost:8080/swagger-ui/index.html`.
@@ -71,7 +75,7 @@ In the future, I intend to integrate cloud storage solutions, such as AWS S3, fo
 
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration.
 
-<img src="https://media.tenor.com/beCXMoxigz4AAAAM/rosycheeks-mochi-peach.gif" alt="Waving Hand" width="40" height="40"> Get in Touch:
+<img src="https://media.tenor.com/beCXMoxigz4AAAAM/rosycheeks-mochi-peach.gif" alt="Waving Hand" width="42" height="42"> Get in Touch:
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
