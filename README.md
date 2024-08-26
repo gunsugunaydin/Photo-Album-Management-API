@@ -32,7 +32,7 @@ To get started with the project, clone the repository and build it using Maven. 
 
 Alternatively, you can open the repository directly in VS Code using the following trick: simply prepend `https://vscode.dev/` to the repository URL. For example:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Waving Hand" width="40" height="40"> https://vscode.dev/github.com/gunsugunaydin/Photo-Album-Management-API
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Waving Hand" width="30" height="30"> https://vscode.dev/github.com/gunsugunaydin/Photo-Album-Management-API
 
 ## Usage and API Documentation
 
