@@ -30,9 +30,7 @@ This project is a Photo Album Management API developed using Spring Boot. The AP
 
 To get started with the project, clone the repository and build it using Maven. The API is ready to run with a simple `mvn spring-boot:run`.
 
-Alternatively, you can open the repository directly in VS Code using the following trick: simply prepend `https://vscode.dev/` to the repository URL. For example:
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Waving Hand" width="20" height="20"> https://vscode.dev/github.com/gunsugunaydin/Photo-Album-Management-API
+Alternatively, you can open the repository directly in VS Code using the following trick: simply prepend<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Waving Hand" width="16" height="16">  `https://vscode.dev/` to the repository URL. For example: https://vscode.dev/github.com/gunsugunaydin/Photo-Album-Management-API
 
 ## Usage and API Documentation
 
