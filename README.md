@@ -1,4 +1,4 @@
-# Photo Album Management API <img src="https://media.tenor.com/J-Y4PcHivyYAAAAj/peach-goma-selfie.gif" alt="Waving Hand" width="50" height="50">
+# Photo Album Management API <img src="https://media.tenor.com/J-Y4PcHivyYAAAAj/peach-goma-selfie.gif" alt="Taking Photo" width="50" height="50">
 
 This project is a Photo Album Management API developed using Spring Boot. The API provides a set of endpoints for managing user accounts, albums, and photos. Users can create, update, delete, and retrieve albums and photos. The API also supports uploading photos and generating thumbnails automatically.
 
@@ -60,7 +60,7 @@ Swagger UI Screenshot
       
       ![Ekran görüntüsü 2024-08-25 231716](https://github.com/user-attachments/assets/0a78f84c-c2ca-4f37-8ef9-30565c545276)
 
-## My Learning and Growth Journey <img src="https://gifdb.com/images/high/peach-workout-3ji7jev6r95djd66.gif" alt="Waving Hand" width="40" height="40">
+## My Learning and Growth Journey <img src="https://gifdb.com/images/high/peach-workout-3ji7jev6r95djd66.gif" alt="Try Hard" width="40" height="40">
 
 Throughout the development of this project, I’ve significantly improved my coding practices and expanded my knowledge in several areas:
 
@@ -76,7 +76,7 @@ In the future, I intend to integrate cloud storage solutions, such as AWS S3, fo
 
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration.
 
-<img src="https://media.tenor.com/beCXMoxigz4AAAAM/rosycheeks-mochi-peach.gif" alt="Waving Hand" width="43" height="43"> Get in Touch:
+<img src="https://media.tenor.com/beCXMoxigz4AAAAM/rosycheeks-mochi-peach.gif" alt="Get in Touch" width="43" height="43"> Get in Touch:
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
