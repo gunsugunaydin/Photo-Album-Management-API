@@ -60,7 +60,7 @@ Swagger UI Screenshot
       
       ![Ekran görüntüsü 2024-08-25 231716](https://github.com/user-attachments/assets/0a78f84c-c2ca-4f37-8ef9-30565c545276)
 
-## My Learning and Growth Journey <img src="https://github.com/user-attachments/assets/a25bed06-7a82-494f-9808-ab08dabfbd6f" alt="Try Hard" width="40" height="40">
+## My Learning and Growth Journey <img src="https://github.com/user-attachments/assets/a25bed06-7a82-494f-9808-ab08dabfbd6f" alt="Try Hard" width="42" height="42">
 
 Throughout the development of this project, I’ve significantly improved my coding practices and expanded my knowledge in several areas:
 
