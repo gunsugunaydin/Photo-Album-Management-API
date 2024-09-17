@@ -60,7 +60,7 @@ Swagger UI Screenshot
       
       ![Ekran görüntüsü 2024-08-25 231716](https://github.com/user-attachments/assets/0a78f84c-c2ca-4f37-8ef9-30565c545276)
 
-## My Learning and Growth Journey <img src="https://gifdb.com/images/high/peach-workout-3ji7jev6r95djd66.gif" alt="Try Hard" width="40" height="40">
+## My Learning and Growth Journey <img src="https://github.com/user-attachments/assets/a25bed06-7a82-494f-9808-ab08dabfbd6f" alt="Try Hard" width="40" height="40">
 
 Throughout the development of this project, I’ve significantly improved my coding practices and expanded my knowledge in several areas:
 
@@ -76,7 +76,7 @@ In the future, I intend to integrate cloud storage solutions, such as AWS S3, fo
 
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration.
 
-<img src="https://media.tenor.com/beCXMoxigz4AAAAM/rosycheeks-mochi-peach.gif" alt="Get in Touch" width="43" height="43"> Get in Touch:
+<img src="https://i.pinimg.com/originals/6b/cc/af/6bccaf2ed748a996f744ab970e99b4c4.gif" alt="Get in Touch" width="43" height="43"> Get in Touch:
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
