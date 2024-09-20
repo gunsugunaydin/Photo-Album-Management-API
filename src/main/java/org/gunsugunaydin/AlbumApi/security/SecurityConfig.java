@@ -70,7 +70,6 @@ public class SecurityConfig {
             )
             .authorizeHttpRequests(requests -> 
                 requests
-                    .requestMatchers("/api/hello").permitAll()
                     .requestMatchers("/api/v1/auth/token").permitAll()
                     .requestMatchers("/api/v1/auth/users/add").permitAll()
                     .requestMatchers("/api/v1/auth/users/list").hasAuthority("SCOPE_ADMIN")
