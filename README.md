@@ -1,4 +1,4 @@
-# Photo Album Management API <img src="https://media.tenor.com/J-Y4PcHivyYAAAAi/peach-goma-selfie.gif" alt="Taking Photo Img." width="50" height="50">
+# Photo Album Management API <img src="https://media.tenor.com/J-Y4PcHivyYAAAAi/peach-goma-selfie.gif" alt="Taking Photo Gif" width="50" height="50">
 
 This project is a Photo Album Management API developed using Spring Boot. The API provides a set of endpoints for managing user accounts, albums, and photos. Users can create, update, delete, and retrieve albums and photos. The API also supports uploading photos and generating thumbnails automatically.
 
@@ -76,7 +76,7 @@ In the future, I intend to integrate cloud storage solutions, such as AWS S3, fo
 
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration.
 
-<img src="https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif" alt="Get in Touch Img." width="50" height="50"> Get in Touch:
+<img src="https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif" alt="Get in Touch Gif" width="50" height="50"> Get in Touch:
 
 - **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
