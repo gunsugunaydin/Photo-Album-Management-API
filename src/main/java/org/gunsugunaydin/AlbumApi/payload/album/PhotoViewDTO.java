@@ -21,5 +21,5 @@ public class PhotoViewDTO {
     private String name;
 
     @Schema(description = "Description of the photo")
-    private String desciption;
+    private String description;
 }
