@@ -1,4 +1,4 @@
-# Photo Album Management API <img src="https://i.pinimg.com/originals/cc/cc/18/cccc184c1d45e102912a72427d900759.gif" alt="Taking Photo Gif" width="50" height="50">
+# Photo Album Management API <img src="https://media1.tenor.com/m/-7jZGQVH32gAAAAd/cute-love.gif" alt="Taking Photo Gif" width="50" height="50">
 
 This project is a Photo Album Management API developed using Spring Boot. The API provides a set of endpoints for managing user accounts, albums, and photos. Users can create, update, delete, and retrieve albums and photos. The API also supports uploading photos and generating thumbnails automatically.
 
