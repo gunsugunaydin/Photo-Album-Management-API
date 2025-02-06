@@ -74,6 +74,8 @@ Throughout the development of this project, I’ve significantly improved my cod
 
 In the future, I intend to integrate cloud storage solutions, such as AWS S3, for managing photo storage more efficiently.
 
+<br>
+
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration.
 
 <img src="https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif" alt="Get in Touch Gif" width="50" height="50"> Get in Touch:
