@@ -43,8 +43,7 @@ Explore the API documentation through Swagger at `http://localhost:8080/swagger-
 Swagger UI Screenshot
 
 
-
-  This time, I'll keep it brief:
+This time, I'll keep it brief:
 
   - **Authentication & Account Management**: Use the `/api/v1/auth` endpoints.
   - **Album Management**: Access the `/api/v1/albums` endpoints for all album-related operations:
