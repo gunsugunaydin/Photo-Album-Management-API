@@ -42,6 +42,7 @@ Explore the API documentation through Swagger at `http://localhost:8080/swagger-
 
 Swagger UI Screenshot
 
+<br>
 
 This time, I'll keep it brief:
 
